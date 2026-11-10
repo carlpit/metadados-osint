@@ -166,3 +166,7 @@ metascan photo.jpg --strip --strip-dir cleaned/
 ```
 
 **Ethics.** Only analyze files you own or are explicitly authorized to examine. Metadata may include personal data under Brazil’s LGPD (Law 13.709/2018), including names and location. Do not use this tool for unauthorized surveillance or any other unlawful purpose.
+
+---
+
+**Desenvolvido por [carlpit](https://github.com/carlpit)** · Developed by carlpit
